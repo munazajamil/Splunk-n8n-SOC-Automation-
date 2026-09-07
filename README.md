@@ -8,7 +8,7 @@ This system ingests Sysmon endpoint logs, enriches detected process/network tele
 
 ## 📽️ Project Demo & Walkthrough
 
-[Watch the Loom Video Demo Here]([YOUR_LOOM_VIDEO_LINK_HERE](https://github.com/munazajamil/Splunk-n8n-SOC-Automation-/tree/main/Loom-Video))
+[Watch the Loom Video Demo Here]([[YOUR_LOOM_VIDEO_LINK_HERE](https://github.com/munazajamil/Splunk-n8n-SOC-Automation-/tree/main/Loom-Video)]
 
 ---
 
