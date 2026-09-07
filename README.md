@@ -8,7 +8,7 @@ This system ingests Sysmon endpoint logs, enriches detected process/network tele
 
 ## 📽️ Project Demo & Walkthrough
 
-[Watch the Loom Video Demo Here](YOUR_LOOM_VIDEO_LINK_HERE)
+[Watch the Loom Video Demo Here]([YOUR_LOOM_VIDEO_LINK_HERE](https://github.com/munazajamil/Splunk-n8n-SOC-Automation-/tree/main/Loom-Video))
 
 ---
 
@@ -27,3 +27,5 @@ This system ingests Sysmon endpoint logs, enriches detected process/network tele
 - Container-to-container network routing in Docker using `host.docker.internal`.
 - Parsing unformatted XML event data using Regex and expressions in n8n.
 - Ensuring pipeline stability with node-level error tolerance.
+
+  Linkedin: linkedin.com/in/munazajamil
