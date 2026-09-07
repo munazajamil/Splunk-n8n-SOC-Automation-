@@ -127,7 +127,7 @@ VirusTotal  AbuseIPDB
 
 Watch the complete project demonstration:
 
-**[Loom Video Demo]([https://github.com/munazajamil/Splunk-n8n-SOC-Automation-/blob/main/Loom-Video/Automation%20project%20n8n_Splunk%20demo-compressed.mp4)])**
+**[Loom Video Demo] [https://github.com/munazajamil/Splunk-n8n-SOC-Automation-/blob/main/Loom-Video/Automation%20project%20n8n_Splunk%20demo-compressed.mp4])**
 
 ---
 
